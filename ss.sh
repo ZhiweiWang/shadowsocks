@@ -70,7 +70,7 @@ clear
 cat<<EOF
 ************Failed,retry please!***********
 
-cat /etc/ss.log to get something you need…
+cat $log_path to get something you need…
 
 ************Failed,retry please!***********
 EOF
