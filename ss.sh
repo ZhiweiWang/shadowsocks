@@ -1,6 +1,6 @@
 #! /bin/bash
 # log路径
-export log_path=/etc/ss.log
+export log_path=/var/log/ssinst.log
 # 设置端口号
 echo -n -e '\033[36mPlease enter PORT(1225 default): \033[0m'
 # echo -n "please enter port(1225 default):"
